@@ -1,0 +1,1 @@
+setup molten framework for mvc development with react and docker
